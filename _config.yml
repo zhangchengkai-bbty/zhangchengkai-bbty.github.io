@@ -20,18 +20,18 @@ author:
   employer         : "Rutgers University"
   email            : "zhangchengkai2002@gmail.com"
 
-  # Academic websites
-  googlescholar    : ""
-  arxiv            : ""
-  orcid            : ""
-  researchgate     : ""
+  # # Academic websites
+  # googlescholar    : ""
+  # arxiv            : ""
+  # orcid            : ""
+  # researchgate     : ""
 
   # Repositories
   github           : "zhangchengkai-bbty"
 
-  # Social media (留空即可)
-  linkedin         : ""
-  twitter          : ""
+  # # Social media (留空即可)
+  # linkedin         : ""
+  # twitter          : ""
 
 # Publication Category
 publication_category:
@@ -141,18 +141,18 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
+  # teaching:
+  #   output: true
+  #   permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 # Defaults
 defaults:
