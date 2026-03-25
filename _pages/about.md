@@ -19,8 +19,7 @@ I am interested in designing efficient algorithms with provable guarantees, espe
 ## 🎓 Education
 
 - **PhD in Computer Science**, Rutgers University *(ongoing)*
-- (你可以加本科/硕士，例如)
-- **B.S. in Computer Science**, XXX University
+- B.S. in Computer Science and Technology, Shanghai Jiao Tong University, September 2021 – June 2025
 
 ---
 
@@ -29,9 +28,7 @@ I am interested in designing efficient algorithms with provable guarantees, espe
 I am currently working on problems related to:
 - Fair allocation of indivisible goods
 - EF1 / EQ1 type fairness notions
-- Algorithm design for constrained allocation problems
-
-*(你之后可以把论文单独放到 publications 页面)*
+- Machnism design for AMM market
 
 ---
 
